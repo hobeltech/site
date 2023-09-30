@@ -1,0 +1,5 @@
+/.rush
+/src
+/.eslintrc.json
+/*.log
+!/.next
